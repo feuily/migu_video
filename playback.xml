@@ -526,25 +526,31 @@
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 自由式滑雪空中技巧女子决赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20260219164700 +0800" stop="20260219172700 +0800">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 女子3组 冲刺赛预赛</title>
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 女子3组 短距离赛预赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260219172700 +0800" stop="20260219175500 +0800">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 男子3组 冲刺赛预赛</title>
+    <programme channel="CCTV5体育" start="20260219172700 +0800" stop="20260219180300 +0800">
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 男子3组 短距离赛预赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260219175500 +0800" stop="20260219195500 +0800">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 自由式滑雪男子U型池资格赛1、2</title>
+    <programme channel="CCTV5体育" start="20260219180300 +0800" stop="20260219183500 +0800">
+        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 北欧两项团体 跳台滑雪</title>
+    </programme>
+    <programme channel="CCTV5体育" start="20260219183500 +0800" stop="20260219190800 +0800">
+        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 单板滑雪男子坡面障碍技巧决赛</title>
+    </programme>
+    <programme channel="CCTV5体育" start="20260219190800 +0800" stop="20260219195500 +0800">
+        <title lang="zh">米兰之约</title>
     </programme>
     <programme channel="CCTV5体育" start="20260219195500 +0800" stop="20260219202500 +0800">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 女子冲刺赛半决赛</title>
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 女子短距离赛半决赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20260219202500 +0800" stop="20260219205200 +0800">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 男子冲刺赛半决赛</title>
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 男子短距离赛半决赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20260219205200 +0800" stop="20260219211200 +0800">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 女子冲刺赛决赛</title>
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 女子短距离赛决赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20260219211200 +0800" stop="20260219212000 +0800">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 男子冲刺赛决赛</title>
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 男子短距离赛决赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20260219212000 +0800" stop="20260219223000 +0800">
         <title lang="zh">体育世界-全景米兰</title>
