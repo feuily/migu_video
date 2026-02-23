@@ -429,11 +429,8 @@
     <programme channel="CCTV5体育" start="20260223001000 +0800" stop="20260223032900 +0800">
         <title lang="zh">体育世界-全景米兰闭幕式特别节目</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260223032900 +0800" stop="20260223054500 +0800">
+    <programme channel="CCTV5体育" start="20260223032900 +0800" stop="20260223060000 +0800">
         <title lang="zh">2026年米兰-科尔蒂纳冬奥会 闭幕式</title>
-    </programme>
-    <programme channel="CCTV5体育" start="20260223054500 +0800" stop="20260223060000 +0800">
-        <title lang="zh">赛事集锦（奥林匹克）-2026年米兰科尔蒂纳冬奥会 冬奥典藏1（4K）</title>
     </programme>
     <programme channel="CCTV5体育" start="20260223060000 +0800" stop="20260223063000 +0800">
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 男子钢架雪车（4K）</title>
